@@ -11,8 +11,7 @@ Beberapa hal yang belum lengkap:
 ![Preview](preview.png)
 
 
-Link Map: https://simarmata12soni.github.io/webmap_adopsipohon1_/
-
+Link Map: https://mariaaadeliaw.github.io/LPHA_Terusan/
 
 Template from by Ilya Ilyankou and Jack Dougherty. Learn how to create your own copy and see related Leaflet map templates in our book, *Hands-On Data Visualization*: https://handsondataviz.org/leaflet.html
 
